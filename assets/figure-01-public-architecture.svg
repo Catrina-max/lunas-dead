@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760" role="img" aria-labelledby="t d">
+<title id="t">Luna's Dead public architecture</title><desc id="d">Diagram showing the story world connecting to game, series, visual art, gallery and physical objects, grounded by Hoffman and Olea inspired research systems.</desc>
+<style>
+.bg{fill:#0b0b0b}.box{fill:#111;stroke:#5b5148;stroke-width:1}.main{fill:#17120f;stroke:#d0a67a;stroke-width:1.4}.line{stroke:#6f6257;stroke-width:1.2;fill:none}.dash{stroke:#6f6257;stroke-width:1.2;fill:none;stroke-dasharray:7 7}.title{fill:#eee5dc;font: 28px Georgia,serif}.label{fill:#ddd4ca;font: 18px Arial,sans-serif}.small{fill:#9c948b;font: 14px monospace;letter-spacing:2px}.accent{fill:#d0a67a;font: 15px monospace;letter-spacing:2px}
+</style>
+<rect class="bg" width="1400" height="760"/>
+<text x="70" y="65" class="accent">FIGURE 01 / PUBLIC ARCHITECTURE</text>
+<rect x="490" y="95" width="420" height="90" rx="2" class="main"/>
+<text x="700" y="135" text-anchor="middle" class="title">Luna's Dead</text><text x="700" y="163" text-anchor="middle" class="small">STORY WORLD / RESEARCH SYSTEM</text>
+<path class="line" d="M700 185v70M180 255h1040M180 255v45M440 255v45M700 255v45M960 255v45M1220 255v45"/>
+<rect x="70" y="300" width="220" height="95" class="box"/><text x="180" y="342" text-anchor="middle" class="label">Interactive Game</text><text x="180" y="370" text-anchor="middle" class="small">GODOT / SYSTEMS</text>
+<rect x="330" y="300" width="220" height="95" class="box"/><text x="440" y="342" text-anchor="middle" class="label">Screen / Series</text><text x="440" y="370" text-anchor="middle" class="small">NARRATIVE</text>
+<rect x="590" y="300" width="220" height="95" class="box"/><text x="700" y="342" text-anchor="middle" class="label">Visual Art</text><text x="700" y="370" text-anchor="middle" class="small">IMAGE / ARCHIVE</text>
+<rect x="850" y="300" width="220" height="95" class="box"/><text x="960" y="342" text-anchor="middle" class="label">Gallery</text><text x="960" y="370" text-anchor="middle" class="small">SPACE / INSTALLATION</text>
+<rect x="1110" y="300" width="220" height="95" class="box"/><text x="1220" y="342" text-anchor="middle" class="label">Objects</text><text x="1220" y="370" text-anchor="middle" class="small">FASHION / RETAIL</text>
+<path class="line" d="M180 395v85M1220 395v85M180 480h1040"/>
+<rect x="390" y="455" width="620" height="95" class="main"/><text x="700" y="496" text-anchor="middle" class="label">Perception / Evidence Laboratory</text><text x="700" y="525" text-anchor="middle" class="small">CASE THEORY · INFORMATION · MEMORY · INTERFACE</text>
+<path class="line" d="M560 550v70M840 550v70"/>
+<rect x="390" y="620" width="340" height="80" class="box"/><text x="560" y="654" text-anchor="middle" class="label">Hoffman</text><text x="560" y="680" text-anchor="middle" class="small">INTERFACE / PERCEPTION</text>
+<rect x="670" y="620" width="340" height="80" class="box"/><text x="840" y="654" text-anchor="middle" class="label">Óscar Olea</text><text x="840" y="680" text-anchor="middle" class="small">VALUE / CONTEXT / INFORMATION</text>
+</svg>
