@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 770" role="img" aria-labelledby="t d">
+<title id="t">Seven Spaces framework</title><desc id="d">Seven spaces arranged as a progression from Merry Scary through the Ofrenda, each paired with a research question.</desc>
+<style>.bg{fill:#0b0b0b}.line{stroke:#4c433c;stroke-width:1}.n{fill:#d0a67a;font:15px monospace;letter-spacing:2px}.name{fill:#eee5dc;font:25px Georgia,serif}.q{fill:#a59c93;font:15px Arial,sans-serif}.head{fill:#d0a67a;font:15px monospace;letter-spacing:2px}</style>
+<rect class="bg" width="1400" height="770"/><text x="70" y="62" class="head">FIGURE 03 / THE SEVEN SPACES</text>
+<g transform="translate(70,110)">
+<line x1="0" y1="0" x2="1260" y2="0" class="line"/>
+<g transform="translate(0,38)"><text class="n">01</text><text x="90" class="name">Merry Scary</text><text x="420" class="q">What is an object?</text></g><line y1="85" x2="1260" y2="85" class="line"/>
+<g transform="translate(0,123)"><text class="n">02</text><text x="90" class="name">Memorial</text><text x="420" class="q">How does memory assign value?</text></g><line y1="170" x2="1260" y2="170" class="line"/>
+<g transform="translate(0,208)"><text class="n">03</text><text x="90" class="name">Zephyr's Garage</text><text x="420" class="q">What happens when evidence and representation diverge?</text></g><line y1="255" x2="1260" y2="255" class="line"/>
+<g transform="translate(0,293)"><text class="n">04</text><text x="90" class="name">Veil</text><text x="420" class="q">Can perceptual systems be engineered?</text></g><line y1="340" x2="1260" y2="340" class="line"/>
+<g transform="translate(0,378)"><text class="n">05</text><text x="90" class="name">Deep Downtown</text><text x="420" class="q">Is spatial continuity itself an interface?</text></g><line y1="425" x2="1260" y2="425" class="line"/>
+<g transform="translate(0,463)"><text class="n">06</text><text x="90" class="name">Palacio</text><text x="420" class="q">Can multiple representations coexist?</text></g><line y1="510" x2="1260" y2="510" class="line"/>
+<g transform="translate(0,548)"><text class="n">07</text><text x="90" class="name">Ofrenda</text><text x="420" class="q">Does meaning emerge through relationships?</text></g><line y1="595" x2="1260" y2="595" class="line"/>
+</g></svg>
