@@ -225,3 +225,23 @@ footer{
   }
   .hero{min-height:65vh;padding-top:25vw}
 }
+
+.page-hero{
+  min-height:54vh;display:flex;flex-direction:column;justify-content:flex-end;
+  padding:10vw 7vw 6vw;border-bottom:1px solid var(--line);
+  background:radial-gradient(circle at 82% 18%,rgba(182,106,99,.12),transparent 24%),
+             linear-gradient(180deg,rgba(255,255,255,.015),transparent 55%);
+}
+.page-hero h1{
+  max-width:1100px;margin:.25em 0 .15em;font-family:"Libre Caslon Display",serif;
+  font-size:clamp(3.3rem,8vw,7rem);line-height:.93;font-weight:400;
+}
+.page-hero .dek{max-width:850px}
+.hero-actions{margin-top:28px}
+.landing-grid{grid-template-columns:repeat(5,minmax(0,1fr))}
+.landing-grid .number{margin-bottom:1.5rem}
+.spaces.large strong{font-size:2rem}
+.spaces.large small{font-size:.95rem;max-width:540px}
+code{font-family:"DM Mono",monospace;color:#e2c19f;background:#151515;border:1px solid var(--line);padding:.1em .35em}
+@media(max-width:1200px){.landing-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:900px){.page-hero{padding-top:24vw;min-height:48vh}.landing-grid{grid-template-columns:1fr}}
