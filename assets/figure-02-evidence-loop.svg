@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 620" role="img" aria-labelledby="t d">
+<title id="t">Perception to case theory loop</title><desc id="d">Diagram showing perception, observation, context, deviation, evidence, hypothesis, case theory and revised perception.</desc>
+<style>.bg{fill:#0b0b0b}.box{fill:#111;stroke:#5b5148;stroke-width:1}.hot{fill:#17120f;stroke:#d0a67a;stroke-width:1.5}.line{stroke:#8a7766;stroke-width:1.5;fill:none;marker-end:url(#a)}.title{fill:#eee5dc;font:24px Georgia,serif}.label{fill:#ddd4ca;font:18px Arial,sans-serif}.small{fill:#9c948b;font:14px monospace;letter-spacing:2px}.accent{fill:#d0a67a;font:15px monospace;letter-spacing:2px}</style>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#8a7766"/></marker></defs>
+<rect class="bg" width="1400" height="620"/><text x="70" y="65" class="accent">FIGURE 02 / PERCEPTION–EVIDENCE LOOP</text>
+<g>
+<rect x="70" y="220" width="150" height="78" class="box"/><text x="145" y="266" text-anchor="middle" class="label">Perception</text>
+<rect x="260" y="220" width="150" height="78" class="box"/><text x="335" y="266" text-anchor="middle" class="label">Observation</text>
+<rect x="450" y="220" width="150" height="78" class="box"/><text x="525" y="266" text-anchor="middle" class="label">Context</text>
+<rect x="640" y="220" width="150" height="78" class="hot"/><text x="715" y="266" text-anchor="middle" class="label">Deviation</text>
+<rect x="830" y="220" width="150" height="78" class="box"/><text x="905" y="266" text-anchor="middle" class="label">Evidence</text>
+<rect x="1020" y="220" width="150" height="78" class="box"/><text x="1095" y="266" text-anchor="middle" class="label">Hypothesis</text>
+<rect x="1210" y="220" width="150" height="78" class="hot"/><text x="1285" y="266" text-anchor="middle" class="label">Case Theory</text>
+<path class="line" d="M220 259h40M410 259h40M600 259h40M790 259h40M980 259h40M1170 259h40"/>
+<path class="line" d="M1285 298v150H145V298"/>
+<text x="715" y="475" text-anchor="middle" class="small">REVISED PERCEPTION / NEW MODEL / NEW OBSERVATION</text>
+</g></svg>
